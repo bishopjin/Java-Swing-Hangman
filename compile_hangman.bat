@@ -1,0 +1,3 @@
+javac hangman.java
+
+pause
